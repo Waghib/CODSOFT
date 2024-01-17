@@ -1,4 +1,4 @@
-# To-Do List GUI App
+# <p align="center">To-Do List GUI App</p>
 
 This To-Do List GUI App was created as part of my internship at CODSOFT. The application is built using the Tkinter library in Python, providing a simple and intuitive graphical interface for managing tasks.
 
