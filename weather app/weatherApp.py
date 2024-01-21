@@ -99,7 +99,7 @@ class WeatherApp(ThemedTk):
 
                 # Update labels with weather information
                 self.weather_description_label.config(text=f"Weather: {weather_description}")
-                self.temperature_label.config(text=f"Temperature: {round(temp_celsius)}°C or {temp_fahrenheit:.2f}°F")
+                self.temperature_label.config(text=f"Temperature: {round(temp_celsius)}°C or {round(temp_fahrenheit)}°F")
                 self.feel_like_label.config(text=f"Feels Like: {round(feels_like_celsius)}°C or {round(feels_like_fahrenheit)}°F")
                 self.humidity_label.config(text=f"Humidity: {humidity}%")
                 self.wind_speed_label.config(text=f"Wind Speed: {wind_speed} m/s")

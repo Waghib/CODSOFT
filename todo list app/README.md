@@ -16,7 +16,7 @@ To run the To-Do List GUI App, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/Waghib/todo-list-app.git
 2. Navigate to the project directory.
    cd todo-list-app
 3. Run the application using Python.
